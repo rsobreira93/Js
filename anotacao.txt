@@ -1,0 +1,5 @@
+DOM - document Object model
+
+javascript pode alterar os elementos do HTML
+
+javascript pode alterar os atributos e estilos de CSS de uma pagina
